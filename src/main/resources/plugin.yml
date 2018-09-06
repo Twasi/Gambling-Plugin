@@ -1,0 +1,13 @@
+name: Gambling
+main: de.merlinw.twasi.currency.gamble.Plugin
+author: DieserMerlin
+description: Turn your channel's chat into a casino and watch your viewers losing alle their points!
+helpText: Gamble using !gamble <amount>
+version: 1.0
+
+messageHandler: true
+
+commands:
+
+permissions:
+- twasi.currency.gamble.allowgamble
